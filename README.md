@@ -25,7 +25,7 @@ A Retrieval-Augmented Generation (RAG) application for grounded document-based q
 - 🧩 Text chunking + embeddings
 - 🔍 Vector-based retrieval
 - ✅ Hallucination-controlled answers  
-- 🔗 [Link to repo]
+- 🔗 [[Link to repo]](https://github.com/uday-codes69/LLM-Projects/tree/f5caa5cd6febf513a5544d168121e475e4257427/Document-Q%26A%20(RAG%20Lite))
 
 ---
 
