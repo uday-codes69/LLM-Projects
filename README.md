@@ -13,7 +13,7 @@ A local-first AI assistant that runs completely on your machine.
 - ⚙️ Streamlit + Ollama
 - 🎛️ Inference tuning (temperature, top-p, top-k)
 - 🧠 Local LLM deployment  
-- 🔗 [Link to repo]
+- 🔗 [[Link to repo]](https://github.com/uday-codes69/LLM-Projects/tree/b4921d13446e4b5728adb08a9039e19a0f104195/local-ai-assistant)
 
 ---
 
