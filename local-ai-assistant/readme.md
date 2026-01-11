@@ -49,8 +49,7 @@ Before running this application, ensure you have:
 3. **Pull required Ollama models** (if not already installed):
    ```bash
    ollama pull tinyllama
-   ollama pull gemma:4b
-   ```
+
 
 4. **Verify Ollama is running**:
    ```bash
@@ -94,7 +93,6 @@ Local-Ai-Assistant/
 ### Model Selection
 Currently supported models:
 - `tinyllama`: Lightweight, fast model for quick responses
-- `gemma:4b`: Google's Gemma 4B parameter model
 
 To add more models:
 1. Pull the model using Ollama: `ollama pull <model-name>`
